@@ -24,8 +24,7 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-zinc-200 px-4 py-6 text-center text-xs text-zinc-500 dark:border-zinc-800 dark:text-zinc-500">
-        Configure <code className="rounded bg-zinc-200/80 px-1 py-0.5 dark:bg-zinc-800">N8N_WEBHOOK_URL</code>{" "}
-        in <code className="rounded bg-zinc-200/80 px-1 py-0.5 dark:bg-zinc-800">.env.local</code>
+       
       </footer>
     </div>
   );
